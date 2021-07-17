@@ -2,7 +2,7 @@
 
 [DEMO](https://shader-patterns.netlify.app)
 
-![shader_with_color_utime](https://user-images.githubusercontent.com/4311684/126043869-401ecc92-0285-454a-bdd3-7bed48cd577a.JPG)
+![noise_shader](https://user-images.githubusercontent.com/4311684/126045908-58095d51-d431-4c80-a0cd-5c84e3447151.gif)
 
 ## Setup
 
